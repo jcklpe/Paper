@@ -1,3 +1,12 @@
+#ToDo:
+[ ] flatten button styles
+[ ] convert over to separate skin or learn how child skins work
+[ ] add more robust media presentation styling
+
+
+
+
+
 # Tweeki, a Bootstrap based skin for MediaWiki
 
 Tweeki is a skin for **[MediaWiki](http://mediawiki.org/)** (1.25+) based on Twitter's 
